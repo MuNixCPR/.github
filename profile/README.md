@@ -16,8 +16,8 @@
 >
 > Six things without fail you must do  
 > [Before spinning up the dev server ;)]  
-> Though the server is never the same  
 >
+> Though the server is never the same  
 > You *will* try again  
 >
 > -Julian Casablancas (+Heraclitus +mfw)
