@@ -25,7 +25,9 @@
 ## What?
 *Regarding [MusicCPR](musiccpr.org) onboarding:* for some students, codespaces/docker containerization was unacceptably slow. I worked to help document the process for students who may be inexperienced on the commandline/with unix environments, but with technologies like Nix becoming more commonplace I figured this little side quest could act as a great excuse for me to familiarize myself with not only Nix, but a myriad other tools.
 
-I'm not sure of the status of [tgm's](gtihub.com/hcientist) codespaces investigation, so this all may be moot, but again, it's to get better with these tools and to feel more comfortable configuring and maintaining environments, esp. when remote as most of my dev is now done over ssh.
+I'm not sure of the status of [tgm's](gtihub.com/hcientist) codespaces investigation, so this all may be moot...
+*but again,* it's to get better with these tools and to feel more comfortable configuring and maintaining environments,   
+since, *par les temps qui courent*, all my dev is done over ssh to various boxes distributed globally (I'm not even kidding, for the occasional sophomore who hears this and thinks I'm like kidding? for some reason?).
 
 
 ## Exploring:
@@ -50,7 +52,7 @@ I'm not sure of the status of [tgm's](gtihub.com/hcientist) codespaces investiga
         1. ephemeral storage
         1. Resource monitoring and allocation
 
-  #### *Mutantur, manent. non bis idem; sapent sat.*
+#### *Mutantur, manent. non bis idem; sapent sat. seulement, tu souhaites*
 
 
 [^1]: See also: *Containers*
