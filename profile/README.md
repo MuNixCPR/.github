@@ -30,28 +30,6 @@ I'm not sure of the status of tgm's codespaces investigation, so this all may be
 since, *par les temps qui courent*, all my dev is done over ssh to various boxes distributed globally (I'm not even kidding, for the occasional sophomore who hears this and thinks I'm like kidding? for some reason?).
 
 
-## Exploring:
-
-1. `MuNixAnsible`
-    - Ansible is the defacto standard for automation, provisioning, etc., and I need to get better at it.
-    - This should entail playbooks for isos maybe; I'm still on the fence about this one.
-1. `MuNixArchiso`
-    - lightweight custom arch linux iso meant to be run by student in VM.
-1. `MuNixPureFlake`
-    - Pure nix approach with flakes is potentially most lightweight while still highly reproducible
-1. `MuNixPureShell`
-    - For a very fast ad hoc dev environment without too much anxiety about host machine
-1. `MuNixFlakeContainer`
-    - offers additional isolation when compared to pure nix approaches
-    - uses `nix-devcontainer`, which in turn makes use of a bare debian image, assumedly lighter-weight than the image used for codespaces expl, but need to confirm.
-    - allows easy spinup & development in a VSCode codespace (!!!)
-1. `MuNixSystem`
-    - This approach is the oddest, but one I am most excited for, if it is given the go ahead and students take up the offer. It entails configuring a system and making said system available for students to create user accounts and do MusicCPR development remotely.
-    - This is to give me actual hands on practice administering/setting up:
-        1. a box with actual users
-        1. ephemeral storage
-        1. Resource monitoring and allocation
-
 #### *Mutantur, manent. non bis idem; sapent sat. seulement, tu souhaites*
 
 
